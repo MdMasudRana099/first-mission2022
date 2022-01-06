@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#introduction{
+    width: 100%; 
+    margin-bottom: 200px; 
+}
+.wrapper{
+    padding: 20px 100px;
+    display: flex;
+}
+#introduction .content{
+    width: 50%;
+}
+#introduction .media{
+    width: 50%;
+    text-align: center;
+}
+
+#introduction .media img{
+    width: 500px;
+
+}
+#introduction .content div{
+    border-left: 5px solid #DC6060;
+    padding-left: 30px;
+    margin-top: 150px; 
+    margin-bottom: 30px;
+  }
+
+#introduction .content h1{
+  font-family: poppins;
+  font-size: 50px;
+  line-height: 1.2em;
+}
+.gold-color{
+    color: #E8B166;
+}
+
+#introduction .content p{
+    font-family: poppins;
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 30px;  
+}
+#introduction .content a{
+    font-family: poppins;
+    font-size: 14px;
+    background-color: #DC6060;
+    color: rgb(255, 255, 255);
+    padding: 12px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    
+}
+#horizon{
+    width: 100%;
+}
+#horizon h1{
+    padding-bottom: 20px;
+    font-family: poppins;
+    text-align: center;
+    font-size: 50px;
+}
+.ruler{
+    color: goldenrod;
+}
+.container{
+    padding: 50px 100px;
+    display: flex;
+}
+.container img{
+    width: 33.33%;
+}
+#horizon .container .box{
+    width: 33.33%;
+    border: 1px solid #F6FAFA;
+    padding: 40px;
+    border-radius: 30px;
+}
+#horizon .container .box1{
+    background: #EFF4F5;
+}
+#horizon .container .box2{
+    background: #FAEEEE;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#horizon .container .box3{
+    background: #FBF5D7;
+}
+#horizon .container .box h3{
+    font-family: poppins;
+    font-size: 30px;
+
+}
+#horizon .container .box p{
+    font-family: poppins;
+    font-size: 16px;
+    line-height: 1.5em;
+
+}
+#food .soap img{
+    width: 400px;
+}
+.eating{
+    padding: 20px 100px;
+    display: flex;
+}
+#food .soap{
+    width: 50%;
+}
+#food h1{
+    font-size: 50px;
+}
+#food .eating p{
+    font-family: poppins;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+.button{
+    font-family: poppins;
+    font-size: 14px;
+    background-color: #DC6060;
+    color: rgb(255, 255, 255);
+    padding: 12px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+#food .water p{
+    margin-bottom: 50px;
+}
+#global img{
+    width: 400px;
+}
+.galaxy{
+    padding: 20px 100px;
+    display: flex;
+}
+#global .galaxy{
+    width: 100%;
+}
+#global h1{
+    font-size: 50px;
+ 
+}
+#global .glob p{
+    font-size: 16px;
+    font-family: poppins;
+}
+#global .glob{
+  width: 50%;
+  margin-top: 100px;
+}
+#global .earth{
+    width: 50%;
+    text-align: center;
+  }
+  #task img{
+    width: 400px;
+}
+.profile{
+    padding: 20px 100px;
+    display: flex;
+}
+#task .profile{
+    width: 100%;
+}
+#task h1{
+    font-size: 50px;
+}
+
+#task .profile p{
+    font-size: 16px;
+    font-family: poppins;
+    margin-bottom: 30px;
+}
+#task .profile-1{
+    width: 50%;
+    margin-top: 100px;
+}
+#task .profile-2{
+    width: 50%;
+    margin-top: 100px;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(31, 27, 25);
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+#foot span{
+     color:tomato;
+}
